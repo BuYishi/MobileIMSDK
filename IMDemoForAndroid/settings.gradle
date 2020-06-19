@@ -1,2 +1,3 @@
 include ':app'
+include ':mobile_im'
 rootProject.name = "IMDemoForAndroid"
