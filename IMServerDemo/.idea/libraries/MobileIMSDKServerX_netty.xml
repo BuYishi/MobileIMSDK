@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MobileIMSDKServerX_netty">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/MobileIMSDKServerX_netty.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
