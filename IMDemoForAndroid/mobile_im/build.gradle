@@ -23,4 +23,5 @@ android {
 
 dependencies {
     api files('libs/MobileIMSDKServerX_meta.jar')
+    implementation files('libs/gson-2.2.4.jar')
 }
